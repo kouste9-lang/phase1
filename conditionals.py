@@ -7,7 +7,7 @@ else:
 
 # for loops
 
-i = 1
+i = 5
 while i <= 10:
     print(i)
     i += 1
