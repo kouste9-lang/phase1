@@ -11,4 +11,4 @@ monthConversion = {
     "apr": "april",
 }
 
-print(monthConversion.get("jan"))
+print(monthConversion.get(apr))

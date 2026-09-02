@@ -1,5 +1,15 @@
-name = input("what's your name: ")
+"""name = input("what's your name: ")
 if name == "ouste":
     print("you are so a sweet !")
 else:
-    print(f"you are so stupid {name}")
+    print(f"you are so stupid {name}")"""
+
+
+# for loops
+
+i = 1
+while i <= 10:
+    print(i)
+    i += 1
+
+print("done with loop")
