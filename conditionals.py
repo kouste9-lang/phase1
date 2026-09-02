@@ -5,7 +5,7 @@ else:
     print(f"you are so stupid {name}")"""
 
 
-# for loops
+# while loops
 
 i = 5
 while i <= 10:
